@@ -15,4 +15,5 @@
    "files.autoSave": "off",
    "workbench.colorTheme": "Visual Studio Dark",
    "terminal.integrated.gpuAcceleration": "canvas",
+   "python.pythonPath": "/home/gitpod/.pyenv/versions/3.12.2/bin/python",
 }
